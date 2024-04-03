@@ -1,0 +1,21 @@
+{
+  "name": "iq125simple-calculator",
+  "version": "1.0.4",
+  "description": "its a simple calculator with typescript,Nodejs and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "iq125simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iqra Odho",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
